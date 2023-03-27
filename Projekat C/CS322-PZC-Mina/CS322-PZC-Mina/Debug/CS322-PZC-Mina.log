@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\katar\source\repos\CS322-PZC-Mina\CS322-PZC-Mina\Source.c(51,24): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\katar\source\repos\CS322-PZC-Mina\CS322-PZC-Mina\Source.c(56,16): warning C4013: 'realloc' undefined; assuming extern returning int
+C:\Users\katar\source\repos\CS322-PZC-Mina\CS322-PZC-Mina\Source.c(56,54): warning C4047: '=': 'Pitanja *' differs in levels of indirection from 'int'
+C:\Users\katar\source\repos\CS322-PZC-Mina\CS322-PZC-Mina\Source.c(93,37): warning C4047: 'function': 'Pitanja *' differs in levels of indirection from 'Pitanja **'
+C:\Users\katar\source\repos\CS322-PZC-Mina\CS322-PZC-Mina\Source.c(93,33): warning C4024: 'smestiPitanja': different types for formal and actual parameter 2
+  CS322-PZC-Mina.vcxproj -> C:\Users\katar\source\repos\CS322-PZC-Mina\Debug\CS322-PZC-Mina.exe
